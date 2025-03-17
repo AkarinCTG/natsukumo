@@ -6,7 +6,7 @@
 
 下拉选单 +Create New File
 
-命名Name your file 一栏填写您翻译的文件的文件名
+命名Name your file 一栏填写您翻译的文件的文件名(记得带上后缀名.txt哦)
 
 将全部文本粘贴进下面的框里
 
