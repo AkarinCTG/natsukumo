@@ -4,15 +4,9 @@
 
 点击右上角按钮 Add file
 
-下拉选单 +Create New File
+选择 Upload files 直接上传文件
 
-命名Name your file 一栏填写您翻译的文件的文件名(记得带上后缀名.txt哦)
-
-将全部文本粘贴进下面的框里
-
-点击右上角绿色的 Commit changes... 提交即可
-
-或者选择 Upload files 直接上传文件
+经测试创建文件会导致默认编码与游戏不兼容的问题，所以请使用传文件的方式上传。
 
 修改文件的方法：
 
